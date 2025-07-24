@@ -33,15 +33,15 @@
   "sideEffects": false,
   "license": "MIT",
   "peerDependencies": {
-    "react": "15 - 18",
-    "react-dom": "15 - 18"
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
   },
   "dependencies": {
     "@gilbarbara/deep-equal": "^0.3.1",
     "deep-diff": "^1.0.2",
     "deepmerge": "^4.3.1",
     "is-lite": "^1.2.1",
-    "react-floater": "^0.7.9",
+    "react-floater": "^0.9.4",
     "react-innertext": "^1.1.5",
     "react-is": "^16.13.1",
     "scroll": "^3.0.1",
@@ -78,8 +78,8 @@
     "is-ci-cli": "^2.2.0",
     "jest-extended": "^4.0.2",
     "jsdom": "^25.0.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "repo-tools": "^0.3.1",
     "size-limit": "^11.1.6",
     "ts-node": "^10.9.2",
